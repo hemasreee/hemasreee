@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemasreee
+- 👋 Hi, I’m @hemasree
 - 👀 I’m interested in Data Science, Machine Learning,AI and web development.
 - 🌱 I’m currently learning advanced algorithms, data analysis, and deep learning.
 - 💞️ I’m looking to collaborate on open-source projects in machine learning and data-driven applications.
